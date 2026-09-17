@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**buildironman/buildironman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I graduated from **Beihang University** with a **Master's degree**, and previously worked at **Alibaba Group (Alibaba Cloud)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm working at Deepexi Technology Co., Ltd. as General Manager of Deepexi Lab.
+
+## My Recent Research Interests
+
+How to Build Effective AI Agents
+
+- **Model Training & Inference Optimization**
+- **Memory Mechanisms**
+- **Computing Tools**
+- **Embodied AI**
+
+## What I Believe
+
+> The road is long and arduous, yet with perseverance we shall arrive.
