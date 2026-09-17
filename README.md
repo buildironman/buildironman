@@ -18,3 +18,5 @@ How to Build Effective AI Agents
 ## What I Believe
 
 > The road is long and arduous, yet with perseverance we shall arrive.
+
+Feel free to reach me at: **mahuan@deepexi.com**
