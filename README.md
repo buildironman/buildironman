@@ -1,21 +1,21 @@
-# Hi there 👋
+# Hi there! 👋
 
 ## About Me
 
-I graduated from **Beihang University** with a **Master's degree**, and previously worked at **Alibaba Group (Alibaba Cloud)**.
+I earned my master's degree from **Beihang University** and previously worked at **Alibaba Cloud**, part of **Alibaba Group**.
 
-Now I'm working at Deepexi Technology Co., Ltd. as General Manager of Deepexi Lab.
+I currently serve as **General Manager of Deepexi Lab** at **Deepexi Technology Co., Ltd.**
 
-## My Recent Research Interests
+## Research Interests
 
-How to Build Effective AI Agents
+I’m interested in building effective AI agents, with a focus on:
 
-- **LLM Agents, Agentic RL, Long-Horizon Reasoning, Memory Systems**
-- **LLM Inference, KV Cache Optimization**
-- **Embodied AI**
+- LLM agents, agentic reinforcement learning, long-horizon reasoning, and memory systems
+- LLM inference and KV cache optimization
+- Embodied AI
 
 ## What I Believe
 
-> The road is long and arduous, yet with perseverance we shall arrive.
+> The road ahead is long, but perseverance will see us through.
 
-Feel free to reach me at: **mahuan[AT]deepexi.com**
+Feel free to reach me at **mahuan[AT]deepexi.com**.
