@@ -10,13 +10,12 @@ Now I'm working at Deepexi Technology Co., Ltd. as General Manager of Deepexi La
 
 How to Build Effective AI Agents
 
-- **Model Training & Inference Optimization**
-- **Memory Mechanisms**
-- **Computing Tools**
+- **LLM Agents, Agentic RL, Long-Horizon Reasoning, Memory Systems**
+- **LLM Inference, KV Cache Optimization**
 - **Embodied AI**
 
 ## What I Believe
 
 > The road is long and arduous, yet with perseverance we shall arrive.
 
-Feel free to reach me at: **mahuan@deepexi.com**
+Feel free to reach me at: **mahuan[AT]deepexi.com**
